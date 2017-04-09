@@ -1,27 +1,27 @@
 Recursion Examples 
 ==================
 
-##Testing - Jasmine
+###Testing - Jasmine###
 
 Need to install Jasmine (detailed steps here - https://www.npmjs.com/package/jasmine)
 
-##Installation:
+###Installation:###
 
 Local installation: 
 
     $ npm install --save-dev jasmine
  
-Global installation 
+Global installation:
 
     $ npm install -g jasmine
 
-##Intializing
+###Intializing###
 
 To initialize a project for Jasmine
 
     $ jasmine init
 
-##Usage 
+###Usage###
 
 To run your test suite
 
